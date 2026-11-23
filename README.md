@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![](https://count.getloli.com/@feelsmanvt?theme=moebooru)
 <!--
 **feelsmanvt/feelsmanvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
