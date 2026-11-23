@@ -12,7 +12,6 @@
 
 ### À propos de moi
 
-- **En ce moment, je travaille sur** : [**Aetheria**](https://github.com/feelsmanvt/Aetheria)
 - **Pour me contacter** : Ajoute-moi sur Discord (`feelsmanvt`)
 
 <p align="left">
